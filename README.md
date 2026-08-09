@@ -51,6 +51,9 @@ Exported the model's predictions into a dashboard with:
 ## The dashboard
 
 <img width="1258" height="710" alt="Screenshot 2026-08-09 113317" src="https://github.com/user-attachments/assets/1074884b-7394-4079-bb12-0381d3f46f17" />
+<img width="800" height="940" alt="image" src="https://github.com/user-attachments/assets/20bede0f-00db-4605-ab79-bf7daed58d8a" />
+
+
 
 
 ## What HR could actually do with this
